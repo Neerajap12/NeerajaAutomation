@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55847" started-at="2023-10-04T00:58:29Z" finished-at="2023-10-04T00:59:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55847" started-at="2023-10-04T00:58:29Z" finished-at="2023-10-04T00:59:25Z">
+      <class name="com.test.FacebookTest">
+        <test-method status="PASS" signature="fB()[pri:0, instance:com.test.FacebookTest@59494225]" name="fB" duration-ms="27023" started-at="2023-10-03T20:58:29Z" finished-at="2023-10-03T20:58:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fB -->
+      </class> <!-- com.test.FacebookTest -->
+      <class name="com.test.OrangeTest">
+        <test-method status="PASS" signature="hRm()[pri:0, instance:com.test.OrangeTest@4566e5bd]" name="hRm" duration-ms="10368" started-at="2023-10-03T20:59:14Z" finished-at="2023-10-03T20:59:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hRm -->
+      </class> <!-- com.test.OrangeTest -->
+      <class name="com.test.AmazonTest">
+        <test-method status="PASS" signature="aM()[pri:0, instance:com.test.AmazonTest@cb644e]" name="aM" duration-ms="5074" started-at="2023-10-03T20:58:56Z" finished-at="2023-10-03T20:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aM -->
+      </class> <!-- com.test.AmazonTest -->
+      <class name="com.test.GmailTest">
+        <test-method status="PASS" signature="gM()[pri:0, instance:com.test.GmailTest@13805618]" name="gM" duration-ms="4742" started-at="2023-10-03T20:59:01Z" finished-at="2023-10-03T20:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gM -->
+      </class> <!-- com.test.GmailTest -->
+      <class name="com.test.IhcTest">
+        <test-method status="PASS" signature="iHg()[pri:0, instance:com.test.IhcTest@56ef9176]" name="iHg" duration-ms="8603" started-at="2023-10-03T20:59:06Z" finished-at="2023-10-03T20:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iHg -->
+      </class> <!-- com.test.IhcTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
